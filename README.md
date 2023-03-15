@@ -1,4 +1,4 @@
-[![MasterHead](https://cutewallpaper.org/28/cyberpunk-pixel-art-gif-wallpaper/pin-de-huyhtvne-en-x86-oldies-pixel-art-ciudad-pixel-ciudad-cyberpunk-arte-de-animaci%C3%B3n.gif)](https://emmanuelepp.com/)
+[![MasterHead](https://thumbs.gfycat.com/SereneSkinnyIberianmole-size_restricted.gif)](https://emmanuelepp.com/)
 <h1 align="center">Hi 👋, I'm Emmanuel Ponciano</h1>
 <h3 align="center">I'm a software engineer from the Dominican Republic who is passionate about everything related to engineering, astrophysics, bioinformatics and artificial intelligence.</h3>
 <img src="https://animesher.com/orig/2/204/2045/20456/animesher.com_gif-ghost-in-the-shell-coding-2045678.gif" width="500" height="333">
