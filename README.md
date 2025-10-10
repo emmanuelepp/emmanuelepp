@@ -10,7 +10,7 @@
 - FreeRTOS
 - GDB/OpenOCD
 - CMake
-- Go/C#
+- Rust/C#
 
 
 
