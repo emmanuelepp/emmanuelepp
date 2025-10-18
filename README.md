@@ -2,8 +2,6 @@
 <h1 align="center">Hi, I'm Emmanuel</h1>
 <h3 align="center">Embedded & Backend engineer — peripherals, drivers, production backends.</h3>
 
---
-
 ### Tooling
 `C` · `C++` · `ARM/STM32 (ARM asm)` · `FreeRTOS` · `GDB/OpenOCD` · `CMake` · `Rust` · `C#`
 
@@ -11,8 +9,6 @@
 - Low-level peripherals & drivers  
 - Real-time systems (RTOS)  
 - Production-grade backend services
-
---
 
 <!-- Optional visual -->
 <p align="center">
