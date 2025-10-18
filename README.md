@@ -3,7 +3,7 @@
 <h3 align="center">Embedded & Backend engineer — peripherals, drivers, production backends.</h3>
 
 ### Tooling
-`C` · `C++` · `ARM/STM32 (ARM asm)` · `FreeRTOS` · `GDB/OpenOCD` · `CMake` · `Rust` · `C#`
+`C` · `C++` · `Rust` · `C#` · `ARM/STM32 (ARM asm)` · `FreeRTOS` · `GDB/OpenOCD` · `CMake`
 
 ### Focus
 - Low-level peripherals & drivers  
