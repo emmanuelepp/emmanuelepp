@@ -1,22 +1,12 @@
 [![Header](https://giffiles.alphacoders.com/212/212812.gif)](https://emmanuelepp.com/)
 
 <h1 align="center">Hi, I'm Emmanuel</h1>
-<h3 align="center">Embedded • Backend • AI</h3>
-
-<p align="center">
-  I build low-level firmware & drivers, production-grade backend services, and practical AI integrations.
-</p>
-
-<p align="center">
-  <em>MCUs • RTOS • High-reliability services • Edge + Cloud AI</em>
-</p>
+<h3 align="center"> Backend • AI</h3>
 
 ### 🔧 Tooling
 `C` · `C++` · `Rust` · `C#` · `Python` · `ARM/STM32 (ARM asm)` · `FreeRTOS` · `Zephyr` · `GDB/OpenOCD` · `CMake` · `Docker` · `Linux` · `Git`
 
 ### 🎯 Focus
-- **MCUs & Drivers:** low-level peripherals, buses, and board bring-up  
-- **Real-Time Systems:** RTOS & bare-metal patterns, timing/latency discipline  
 - **Backend Engineering:** APIs, messaging, observability, reliability  
 
 <p align="center">
