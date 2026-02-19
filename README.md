@@ -2,10 +2,12 @@
 
 # Hi, I’m Emmanuel 👋
 
-**Backend Engineer · .NET/C# · Azure · APIs & Integrations · SQL Server**
+**Backend Software Engineer · .NET/C# · Azure · APIs & Integrations · Distributed Systems**
 
-I build and operate production backend services and modernize REST APIs, with a focus on reliable releases and observability.
+I build and run production backend services, modernize REST APIs, and design distributed processing workflows—focused on reliable delivery, observability, and measurable performance gains.
 
-- 🔧 **Core:** .NET/ASP.NET Core, REST APIs, SQL Server, Azure (Functions/App Service)
-- 📈 **Production:** CI/CD (Azure DevOps), Docker, Application Insights (telemetry)
+- 🔧 **Core:** .NET/ASP.NET Core, REST APIs, SQL Server, Azure (Functions/WebJobs/App Service)
+- 🚀 **Delivery:** Azure DevOps CI/CD, Docker, release automation
+- 📊 **Observability:** Application Insights, telemetry, Kibana/ELK
 - 🧩 **Focus:** event-driven integrations, scalability, maintainability
+
