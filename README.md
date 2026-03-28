@@ -1,4 +1,6 @@
-[![Header](https://giffiles.alphacoders.com/212/212812.gif)](https://emmanuelepp.com/)
+<a href="https://emmanuelepp.com/">
+  <img src="https://giffiles.alphacoders.com/212/212812.gif" width="100%" height="200px" style="object-fit: cover;" />
+</a>
 
 # Hi, I’m Emmanuel 👋
 
@@ -7,7 +9,9 @@
 I build and run production backend services, modernize REST APIs, and design distributed processing workflows—focused on reliable delivery, observability, and measurable performance gains.
 
 - 🔧 **Core:** .NET/ASP.NET Core, REST APIs, SQL Server, Azure (Functions/WebJobs/App Service)
-- 🚀 **Delivery:** Azure DevOps CI/CD, Docker, release automation
-- 📊 **Observability:** Application Insights, telemetry, Kibana/ELK
-- 🧩 **Focus:** event-driven integrations, scalability, maintainability
+- 🚀 **Delivery:** Azure DevOps CI/CD, Docker, Kubernetes, release automation
+- 🔐 **Security:** DevSecOps, Snyk, SonarQube, Secure SDLC
+- 🤖 **AI Tools:** GitHub Copilot, Claude, ChatGPT
+- 📊 **Observability:** Application Insights, OpenTelemetry, Kibana/ELK
+- 🧩 **Focus:** event-driven integrations, scalability, security-first engineering
 
