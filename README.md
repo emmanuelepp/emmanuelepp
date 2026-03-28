@@ -3,6 +3,7 @@
     <img src="https://giffiles.alphacoders.com/212/212812.gif" width="600px" />
   </a>
 </p>
+
 # Hi, I’m Emmanuel 👋
 
 **Backend Software Engineer · .NET/C# · Azure · APIs & Integrations · Distributed Systems**
