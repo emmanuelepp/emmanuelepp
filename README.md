@@ -1,5 +1,5 @@
 <a href="https://emmanuelepp.com/">
-  <img src="https://giffiles.alphacoders.com/212/212812.gif" width="100%" style="max-height: 200px; object-fit: cover;" />
+  <img src="https://giffiles.alphacoders.com/212/212812.gif" width="600px" />
 </a>
 
 # Hi, I’m Emmanuel 👋
