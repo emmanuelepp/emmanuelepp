@@ -3,6 +3,7 @@
     <img src="https://giffiles.alphacoders.com/212/212812.gif" width="600px" />
   </a>
 </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel-blue)](https://linkedin.com/in/emmanuelponciano)
 
 # Hi, I’m Emmanuel 👋
 
@@ -16,4 +17,5 @@ I build and run production backend services, modernize REST APIs, and design dis
 - 🤖 **AI Tools:** GitHub Copilot, Claude, ChatGPT
 - 📊 **Observability:** Application Insights, OpenTelemetry, Kibana/ELK
 - 🧩 **Focus:** event-driven integrations, scalability, security-first engineering
+- 📌 Check out my pinned repos below ↓
 
