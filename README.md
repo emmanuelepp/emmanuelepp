@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://emmanuelepp.com/">
+  <a href="">
     <img src="https://giffiles.alphacoders.com/212/212812.gif" width="600px" />
   </a>
 </p>
