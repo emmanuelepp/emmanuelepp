@@ -3,7 +3,6 @@
     <img src="https://giffiles.alphacoders.com/212/212812.gif" width="600px" />
   </a>
 </p>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel-blue)](https://linkedin.com/in/emmanuelponciano)
 
 # Hi, I’m Emmanuel 👋
 
