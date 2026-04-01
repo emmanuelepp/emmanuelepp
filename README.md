@@ -11,7 +11,7 @@
 I build and run production backend services, modernize REST APIs, and design distributed processing workflows focused on reliable delivery, observability, and measurable performance gains.
 
 - 🔧 **Core:** .NET/ASP.NET Core, REST APIs, SQL Server, Azure (Functions/WebJobs/App Service)
-- 🚀 **Delivery:** Azure DevOps CI/CD, Docker, Kubernetes, release automation
+- 🚀 **Delivery:** Azure DevOps CI/CD, Docker, Kubernetes,Terraform, release automation
 - 🔐 **Security:** DevSecOps, Snyk, SonarQube, Secure SDLC
 - 🤖 **AI Tools:** GitHub Copilot, Claude, ChatGPT
 - 📊 **Observability:** Application Insights, OpenTelemetry, Kibana/ELK
