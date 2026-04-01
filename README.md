@@ -8,7 +8,7 @@
 
 **Backend Software Engineer · .NET/C# · Azure · APIs & Integrations · Distributed Systems**
 
-I build and run production backend services, modernize REST APIs, and design distributed processing workflows—focused on reliable delivery, observability, and measurable performance gains.
+I build and run production backend services, modernize REST APIs, and design distributed processing workflows focused on reliable delivery, observability, and measurable performance gains.
 
 - 🔧 **Core:** .NET/ASP.NET Core, REST APIs, SQL Server, Azure (Functions/WebJobs/App Service)
 - 🚀 **Delivery:** Azure DevOps CI/CD, Docker, Kubernetes, release automation
