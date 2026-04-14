@@ -6,15 +6,13 @@
 
 # Hi, I’m Emmanuel 👋
 
-**Backend Software Engineer · .NET/C# · Azure · APIs & Integrations · Distributed Systems**
+## Backend Software Engineer · .NET/C# · C++ · Azure · Distributed Systems
 
-I build and run production backend services, modernize REST APIs, and design distributed processing workflows focused on reliable delivery, observability, and measurable performance gains.
+I build and run production backend services - high-throughput data pipelines, distributed processing workflows, and secure backend infrastructure focused on reliability, observability, and performance.
 
-- 🔧 **Core:** .NET/ASP.NET Core, REST APIs, SQL Server, Azure (Functions/WebJobs/App Service)
-- 🚀 **Delivery:** Azure DevOps CI/CD, Docker, Kubernetes, Terraform, release automation
+- 🔧 **Core:** .NET/ASP.NET Core, C++17/20, REST APIs, SQL Server, Azure (Functions/Service Bus/App Service)
+- 🚀 **Delivery:** Azure DevOps CI/CD, Docker, CMake, Terraform, release automation
 - 🔐 **Security:** DevSecOps, Snyk, SonarQube, Secure SDLC
-- 🤖 **AI Tools:** GitHub Copilot, Claude, ChatGPT
 - 📊 **Observability:** Application Insights, OpenTelemetry, Kibana/ELK
-- 🧩 **Focus:** event-driven integrations, scalability, security-first engineering
-- 📌 Check out my pinned repos below ↓
+- 🧩 **Focus:** concurrent systems, event-driven integrations, security-first engineering
 
