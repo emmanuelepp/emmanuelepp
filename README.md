@@ -4,15 +4,15 @@
   </a>
 </p>
 
-# Hi, I’m Emmanuel 👋
+# Hi, I'm Emmanuel 👋
+## Application Security Engineer · Secure SDLC · DevSecOps · .NET/C# · Azure
 
-## Backend Software Engineer · .NET/C# · C++ · Azure · Distributed Systems
+I help engineering teams ship secure software: threat modeling, secure code review, and security in the pipeline. Backend engineering background (fintech / PCI-DSS, .NET / Azure) now focused on application security.
 
-I build and run production backend services - distributed processing workflows, and secure backend infrastructure focused on reliability, observability, and performance.
-
-- 🔧 **Core:** .NET/ASP.NET Core, C++17/20, REST APIs, SQL Server, Azure (Functions/Service Bus/App Service)
-- 🚀 **Delivery:** Azure DevOps CI/CD, Docker, CMake, release automation
-- 🔐 **Security:** DevSecOps, Snyk, SonarQube, Secure SDLC
+- 🔐 **Application Security:** threat modeling, secure code review, SAST/DAST/SCA (Snyk, SonarQube, OWASP ZAP), Secure SDLC, OWASP Top 10, PCI-DSS
+- 🚀 **DevSecOps:** security gates in CI/CD (Azure DevOps / GitHub Actions), Docker, Kubernetes, secrets management
+- 🛠️ **Backend & Cloud:** .NET/ASP.NET Core, C#, Azure (Functions/Service Bus/Key Vault), SQL Server
+- 🧪 **Offensive Security:** web & network pentest
 - 📊 **Observability:** Application Insights, OpenTelemetry, Kibana/ELK
-- 🧩 **Focus:** concurrent systems, event-driven integrations, security-first engineering
+- 🧩 **Focus:** secure-by-design, vulnerability management, event-driven systems
 
