@@ -4,6 +4,6 @@
   </a>
 </p>
 
-# Hi, I'm Emmanuel 👋
+## Hi, I'm Emmanuel 👋
 
 I build backend systems in C# / .NET / Azure. Sometimes I hack things, just to see what happens.
