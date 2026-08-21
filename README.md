@@ -5,7 +5,7 @@
 </p>
 
 # Hi, I'm Emmanuel 👋
-## Backend engineer · .NET and Azure. Banking and fintech, telecom, insurance, retail logistics.
+### Backend engineer - .NET and Azure. Banking and fintech, telecom, insurance, retail logistics.
 
 **Building**
 
