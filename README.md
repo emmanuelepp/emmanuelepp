@@ -9,8 +9,8 @@
 
 **Building**
 
-[EDI-Sentinel](https://github.com/emmanuelepp/edi-sentinel) — X12 EDI pipeline in .NET, event-driven, with an agent layer that explains failed transactions.
+[EDI-Sentinel](https://github.com/emmanuelepp/edi-sentinel) - X12 EDI pipeline in .NET, event-driven, with an agent layer that explains failed transactions.
 
-[pan-vault](https://github.com/emmanuelepp/pan-vault) — PAN tokenization service on Kubernetes. Runs anywhere.
+[pan-vault](https://github.com/emmanuelepp/pan-vault) - PAN tokenization service on Kubernetes. Runs anywhere.
 
-**Stack**: C#, ASP.NET Core, Azure (Functions, Service Bus, Key Vault), SQL Server, PostgreSQL, Kafka, Docker, Kubernetes, Terraform, GitHub Actions, OpenTelemetry
+**Stack**: C#, ASP.NET Core, Azure (Functions, Service Bus, Key Vault), SQL Server, PostgreSQL, Kafka, Docker, Kubernetes, Terraform, GitHub Actions, OpenTelemetry.
