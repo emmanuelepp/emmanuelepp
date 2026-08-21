@@ -5,18 +5,12 @@
 </p>
 
 # Hi, I'm Emmanuel 👋
-## Backend Engineer · .NET / C# · Azure · Distributed & Event-Driven Systems
+## Backend engineer · .NET and Azure. Banking and fintech, telecom, insurance, retail logistics.
 
-I build and ship production backend systems: distributed architectures,
-event-driven services, and cloud-native applications on Azure. I've done it
-in fintech (PCI-DSS), insurance, and retail logistics, with a
-secure-by-design approach across the whole SDLC.
+**Building**
 
-🔭 **Currently building:** [EDI-Sentinel](https://github.com/emmanuelepp/edi-sentinel), an event-driven
-X12 EDI pipeline in .NET with an AI agent layer (Semantic Kernel + MCP)
-that explains failed transactions in natural language.
+[EDI-Sentinel](https://github.com/emmanuelepp/edi-sentinel) — X12 EDI pipeline in .NET, event-driven, with an agent layer that explains failed transactions.
 
-- 🛠️ **Backend & Cloud:** .NET / ASP.NET Core, C#, Azure (Functions, Service Bus, Key Vault), SQL Server, PostgreSQL
-- 🏛️ **Architecture:** Clean Architecture, CQRS, DDD, Event Sourcing, microservices
-- 🚀 **DevSecOps:** CI/CD (Azure DevOps, GitHub Actions), Docker, Kubernetes, Snyk, SonarQube, secrets management
-- 📊 **Observability:** Application Insights, OpenTelemetry, ELK
+[pan-vault](https://github.com/emmanuelepp/pan-vault) — PAN tokenization service on Kubernetes. Runs anywhere.
+
+**Stack**: C#, ASP.NET Core, Azure (Functions, Service Bus, Key Vault), SQL Server, PostgreSQL, Kafka, Docker, Kubernetes, Terraform, GitHub Actions, OpenTelemetry
